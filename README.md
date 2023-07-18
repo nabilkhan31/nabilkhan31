@@ -1,8 +1,7 @@
 ### Nabil Khan, Computer Science Undergraduate, Software Engineer
 
 ### About me
-* #### I'm currently working on a full stack project that enables users to share, lend, or rent resources (such as tools, books or equipment) within their local community
-* #### I'm currently learning the MERN stack
+* #### I'm currently working on a full stack project using the MERN stack that enables users to share, lend, or rent resources (such as tools, books or equipment) within their local community
 * #### Email: nabilk3105@gmail.com
 * #### LinkedIn: https://www.linkedin.com/in/nabil-khan-64761623a/
 
