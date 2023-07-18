@@ -7,7 +7,7 @@
 * #### LinkedIn: https://www.linkedin.com/in/nabil-khan-64761623a/
 
 ### Languages/Skills
-#### HTML | CSS | JavaScript | p5js | Node.js | React | MongoDB | Express.js | Bootstrap | Mappa.js | Git | numpy | pandas | matplotlib
+#### HTML | CSS | JavaScript | p5js | Node.js | React | MongoDB | Express.js | Bootstrap | Mappa.js | Git | NumPy | pandas | Matplotlib
 <!--
 **nabilkhan31/nabilkhan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
