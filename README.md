@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Nabil Khan, Computer Science Undergraduate, Software Engineering 
 <!--
 **nabilkhan31/nabilkhan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
